@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'home/home.dart';
 
-class MyApp extends StatelessWidget {
+class MovieApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
