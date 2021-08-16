@@ -21,13 +21,21 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
+  cloud_firestore: ^2.4.0
   cupertino_icons: ^1.0.2
   dio: ^4.0.0
+  firebase_auth: ^3.0.1
+  firebase_core: ^1.4.0
   flutter:
     sdk: flutter
-  flutter_riverpod: ^0.14.0+3
+  flutter_hooks: ^0.17.0
+  freezed_annotation:
+  hooks_riverpod: ^0.14.0+4
 
 dev_dependencies:
+  freezed:
+  build_runner:
+  json_serializable:
   flutter_test:
     sdk: flutter
 

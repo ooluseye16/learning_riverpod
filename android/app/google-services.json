@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290747280218",
+    "project_id": "shopping-list-app-ec003",
+    "storage_bucket": "shopping-list-app-ec003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290747280218:android:06077abb6e55363d7f6163",
+        "android_client_info": {
+          "package_name": "com.example.learning_riverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290747280218-6f1vij6i6u5npp2cd7h4v8a8h6ble116.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVs0nC6rYP-n-PIujEc9wnJrrB9_PSmY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290747280218-6f1vij6i6u5npp2cd7h4v8a8h6ble116.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

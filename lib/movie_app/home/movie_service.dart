@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:learning_riverpod/movie_app/environment_config.dart';
 import 'package:learning_riverpod/movie_app/home/movie_exception.dart';
 
